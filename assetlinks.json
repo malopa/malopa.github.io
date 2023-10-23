@@ -1,0 +1,7 @@
+[
+    {
+        "relation":["delegate_permission/common.handle_all_urls"],
+        "target":{"namespace":"android_app","package_name":"com.w3wedo",
+    "sha56_cert_fingerprints":"35:66:33:26:C1:48:0B:2B:BA:33:F6:2E:F8:67:CE:98:D9:2E:56:A9:24:A2:70:6D:4E:A8:6B:CA:0B:27:6A:53"}
+    }
+]
